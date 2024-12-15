@@ -87,6 +87,8 @@
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
+This Capstone project is the culmination of my completion of Institute of Data's Software Engineering program. Similar to Facebook, my app, Gamertagged focuses on curated content specifically for gamers. The project is complete as per the rubric requirements however, it is still a WIP that I would like to fully form in the future.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
