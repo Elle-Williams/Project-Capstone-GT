@@ -1,0 +1,27 @@
+.sidebarList> li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.sidebarList> li> span{
+margin-left: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar{
+    width: 10px;
+
+}
+.custom-scrollbar::-webkit-scrollbar-track{
+    background: #ffffff;
+
+}
+.custom-scrollbar::-webkit-scrollbar-thumb{
+    background: #dcdcdc;
+
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover{
+    background: #888;
+
+}
