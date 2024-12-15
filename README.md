@@ -125,7 +125,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/ElleW-814/cappy.git
+   git clone https://github.com/Elle-Williams/Project-Capstone-GT.git
    ```
 2. Install NPM packages
    ```sh
@@ -220,7 +220,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Lakendra "Elle" Williams - ellew814@gmail.com
 
-Project Link: [https://github.com/ElleW-814/cappy](https://github.com/ElleW-814/cappy)
+Project Link: [https://github.com/Elle-Williams/Project-Capstone-GT.git](https://github.com/Elle-Williams/Project-Capstone-GT.git)
 
 Relevant Documentation: [https://drive.google.com/drive/folders/1BM2kge_-F9S7Xou2Z9B63t0UQ7ClwpIP?usp=drive_link](https://drive.google.com/drive/folders/1BM2kge_-F9S7Xou2Z9B63t0UQ7ClwpIP?usp=drive_link)
 
